@@ -9,8 +9,11 @@ Finally, turn on the PPU to display video.
 
 #include "neslib.h"
 
-// link the pattern table into CHR ROM
-//#link "chr_generic.s"
+// CHR data
+//#resource "tileset.chr"
+//#link "tileset.s"
+
+
 
 // main function, run after console reset
 void main(void) {
