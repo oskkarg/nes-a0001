@@ -1,5 +1,6 @@
 
 /*
+Lo modificas o no ?¿?
 A simple "hello world" example.
 Set the screen background color and palette colors.
 Then write a message to the nametable.
